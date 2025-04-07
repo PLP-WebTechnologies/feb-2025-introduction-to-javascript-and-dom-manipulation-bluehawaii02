@@ -1,0 +1,19 @@
+body{
+    background-color: hsla(194, 54%, 65%, 0.836);
+    font-family: 'Courier New', Courier, monospace
+}
+#welcome-ppl{
+    font-size: larger;
+    font-weight: bold;
+}
+.to-do{
+    font-size: larger;
+    font-weight: bold;
+}
+#change-text-button{
+    background-color: #44e903;
+}
+#add-image-button{
+    background-color: #44e903;
+    border-radius: 10px;
+}
